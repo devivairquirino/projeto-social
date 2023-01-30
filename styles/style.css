@@ -61,7 +61,7 @@ section#redes-sociais img{
 }
 @media (max-width:500px){
     #telefone{
-        background-image: url('/imagens/frame-iphone_540x268.png');
+        background-image: url('../imagens/frame-iphone_540x268.png');
     }
     iframe#tela{
         top: 70px;
