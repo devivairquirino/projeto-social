@@ -60,6 +60,9 @@ section#redes-sociais img{
     transition: transform 0.5s, border 1s;
 }
 @media (max-width:500px){
+    body{
+        background-image: url('../imagens/fundo-madeira-963x700.jpg');
+    }
     #telefone{
         background-image: url('../imagens/frame-iphone_540x268.png');
     }
