@@ -64,6 +64,22 @@ section#redes-sociais img{
         background-image: url('../imagens/fundo-madeira-963x700.jpg');
     }
     #telefone{
+        background-image: url('../imagens/frame-iphone-570x283.png');
+    }
+    iframe#tela{
+        top: 74px;
+        left: 21px;
+        width: 241px;
+        height: 426px;
+    }
+    section#redes-sociais img{
+        width:50px;
+        margin: 0px;
+       
+    }
+}
+@media (max-width:340px){
+    #telefone{
         background-image: url('../imagens/frame-iphone_540x268.png');
     }
     iframe#tela{
@@ -72,9 +88,6 @@ section#redes-sociais img{
         width: 229px;
         height: 403.5px;
     }
-    section#redes-sociais img{
-        width:50px;
-        margin: 0px;
-       
-    }
+
 }
+
